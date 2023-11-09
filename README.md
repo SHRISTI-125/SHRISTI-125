@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Shristi</h1>
+<h1 align="center">Hi 👋, I'm Shristi Kumari</h1>
 <h3 align="center">Frontend Developer | Java | Python | Development Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shristi-125&label=Profile%20views&color=0e75b6&style=flat" alt="shristi-125" /> </p>
 
-- 🔭 I’m currently working on [30 days Code Challenge](https://leetcode.com/Shristi-Kumari/)
+- 🔭 I’m currently working on **30 days Code Challenge**
 
 - 🌱 I’m currently learning **Java**
 
@@ -21,5 +21,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shristi-125&show_icons=true&locale=en" alt="shristi-125" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shristi-125&" alt="shristi-125" /></p>
+
 
 
