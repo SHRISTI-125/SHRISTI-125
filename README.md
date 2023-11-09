@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/shristi-kumari-365a48276" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shristi-kumari-365a48276" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/shristi-kumari-365a48276" target="blank"><img align="center" src="Screenshot 2023-10-18 183410.png" alt="www.linkedin.com/in/shristi-kumari-365a48276" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/kashyap9olg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kashyap9olg" height="30" width="40" /></a>
 </p>
 
