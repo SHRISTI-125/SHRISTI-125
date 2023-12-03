@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shristi-125&label=Profile%20views&color=0e75b6&style=flat" alt="shristi-125" /> </p>
 
-- 🔭 I’m currently working on [30-Days Coding]
+- 🔭 I’m currently working on [50-Days Coding]
 
 - 🌱 I’m currently learning **Java**
 
