@@ -1,6 +1,6 @@
 <h1 align="center">Hey Everyone 👋, I'm Shristi Kumari</h1>
 <center>
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=4000&random=false&width=835&lines=Frontend_Developer+Data_Analyst+Java+Python+Development_Enthusiast" alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=4000&random=false&width=835&lines=Frontend_Developer|+Data_Analyst|+Java|+Python|+Development_Enthusiast|" alt="Typing SVG" /></a>
 </center>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
@@ -22,6 +22,11 @@
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![MySQL](https://img.shields.io/badge/MySQL-lightgrey?logo=mysql&style=for-the-badge&logoColor=white&labelColor=blue)
 
+<b>Libraries and Packages</b>
+![Tensorflow](https://img.shields.io/badge/Tensorflow-007acc?style=for-the-badge&labelColor=black&logo=tensorflow&logoColor=007acc)
+![Streamlit](https://img.shields.io/badge/streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=white)
+
+
 <b>Softwares and Tools</b><br>
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -29,8 +34,6 @@
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code Professional](https://img.shields.io/badge/VS_Code_Professional-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Tensorflow](https://img.shields.io/badge/Tensorflow-007acc?style=for-the-badge&labelColor=black&logo=tensorflow&logoColor=007acc)
-![Streamlit](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=streamlit&logoColor=white)
 
 <p align="center">
    <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
