@@ -22,9 +22,17 @@
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![MySQL](https://img.shields.io/badge/MySQL-lightgrey?logo=mysql&style=for-the-badge&logoColor=white&labelColor=blue)
 
-<b>Libraries and Packages</b>
+<b>Libraries and Packages</b><br>
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-007acc?style=for-the-badge&labelColor=black&logo=tensorflow&logoColor=007acc)
+![Keras](https://img.shields.io/badge/keras-000000?style=for-the-badge&logo=keras&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-000000?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-000000?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/scipy-000000?style=for-the-badge&logo=scipy&logoColor=white)
+![spaCy](https://img.shields.io/badge/spacy-000000?style=for-the-badge&logo=spacy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit-learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/seaborn-000000?style=for-the-badge&logo=seaborn&logoColor=white)
 
 
 <b>Softwares and Tools</b><br>
