@@ -29,12 +29,12 @@
 ![NumPy](https://img.shields.io/badge/numpy-000000?style=for-the-badge&logo=numpy&logoColor=blue)
 ![Pandas](https://img.shields.io/badge/pandas-000000?style=for-the-badge&logo=pandas&logoColor=white)
 ![SciPy](https://img.shields.io/badge/scipy-000000?style=for-the-badge&logo=scipy&logoColor=blue)
-![spaCy](https://img.shields.io/badge/spacy-000000?style=for-the-badge&logo=spacy&logoColor=blue)
-![sklearn](https://img.shields.io/badge/sklearn-000000?style=for-the-badge&logo=sklearn&logoColor=orange)
+![SpaCy](https://img.shields.io/badge/spacy-000000?style=for-the-badge&logo=spacy&logoColor=blue)
+![Scikit-learn](https://img.shields.io/badge/scikitlearn-000000?style=for-the-badge&logo=scikitlearn&logoColor=orange)
 ![Matplotlib](https://img.shields.io/badge/matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/seaborn-000000?style=for-the-badge&logo=seaborn&logoColor=grey)
+![Seaborn](https://img.shields.io/badge/seaborn-blue?style=for-the-badge&logo=seaborn&logoColor=grey)
 ![Plotly](https://img.shields.io/badge/plotly-000000?style=for-the-badge&logo=plotly&logoColor=pink)
-![Bokeh](https://img.shields.io/badge/bokeh-000000?style=for-the-badge&logo=bokeh&logoColor=green)
+![Bokeh](https://img.shields.io/badge/bokeh-pink?style=for-the-badge&logo=bokeh&logoColor=green)
 
 
 <b>Softwares and Tools</b><br>
