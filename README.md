@@ -1,28 +1,26 @@
 <h1 align="center">Hey Everyone 👋, I'm Shristi Kumari</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Frontend Developer+Data Analyst+Java+Python+Development Enthusiast" alt="Typing SVG" /></a>
+</p>
 <h3 align="center">Frontend Developer | Data Analyst | Java | Python | Development Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shristi-125&label=Profile%20views&color=0e75b6&style=flat" alt="shristi-125" /> </p>
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/shristi-kumari-365a48276/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="shristi-kumari" height="30" width="40" /></a>
-<a href="https://github.com/SHRISTI-125" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30" width="40" /></a>
-  
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 
+<b>Languages</b>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+
+<b>Frontend</b>
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS5](https://img.shields.io/badge/CSS5-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+
 ![MySQL](https://img.shields.io/badge/MySQL-lightgrey?logo=mysql&style=for-the-badge&logoColor=white&labelColor=blue)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -44,4 +42,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shristi-125&" alt="shristi-125" /></p>
 
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/shristi-kumari-365a48276/" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="shristi-kumari" height="30" width="40" /></a>
+<a href="https://github.com/SHRISTI-125" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/github.png" height="30" width="40" /></a></p>
 
