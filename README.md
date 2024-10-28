@@ -1,12 +1,17 @@
 <h1 align="center">Hey Everyone 👋, I'm Shristi Kumari</h1>
-<center>
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=4000&random=false&width=835&lines=Frontend_Developer|+Data_Analyst|+Java|+Python|+Development_Enthusiast|" alt="Typing SVG" /></a>
+<center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rockwell&weight=700&size=25&pause=4000&color=3799F7&width=975&lines=Frontend+Developer+%7C+Data+Analyst+%7C+Java+%7C+Python+%7C+Development+Enthusiast" alt="Typing SVG" /></a>
 </center>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shristi-125&label=Profile%20views&color=0e75b6&style=flat" alt="shristi-125" /> </p>
-
-<h3 align="left">Languages and Tools:</h3>
+## 👨🏻‍💻 About Me
+-  I am a third year B.Tech CSE student.
+-  I am learning DSA.
+-  Improving my Fronend skills.
+-  Learning Machine Learning to expand my knowledge.
+-  Open Source Contributor  
+-  Exploring new technologies and ideas with zeal to learn more.
+-  Development Enthusiast
+## Skills:
 
 <b>Languages</b><br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -16,7 +21,7 @@
 
 <b>Frontend</b><br>
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS5](https://img.shields.io/badge/CSS5-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS5-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
@@ -45,19 +50,30 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code Professional](https://img.shields.io/badge/VS_Code_Professional-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<p align="center">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHRISTI-125&theme=merko&layout=pie">
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=SHRISTI-125&theme=omni&show_icons=true"/><br>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SHRISTI-125&theme=deuteranopia-friendly-theme" alt="GitHub Streak" /></a><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shristi-125&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="shristi-125" /></p><br>
+
+<p align="left">
    <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shristi-125&show_icons=true&locale=en&layout=compact" alt="shristi-125" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shristi-125&show_icons=true&locale=en" alt="shristi-125" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shristi-125&" alt="shristi-125" /></p>
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/shristi-kumari-365a48276/" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="shristi-kumari" height="30" width="40" /></a>
-<a href="https://github.com/SHRISTI-125" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/github.png" height="30" width="40" /></a></p>
+<a href="https://www.linkedin.com/in/shristi-kumari-365a48276/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Shristi Kumari"/>
+ </a>
+ <a href="https://github.com/SHRISTI-125" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="SHRISTI-125" />
+ </a>
+</p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SHRISTI-125&label=Profile%20views&color=blue&style=flat" alt="shristi-125" /> </p>
 
