@@ -27,7 +27,7 @@
 ![Keras](https://img.shields.io/badge/keras-white?style=for-the-badge&logo=keras&logoColor=red)
 ![Streamlit](https://img.shields.io/badge/streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=red)
 ![NumPy](https://img.shields.io/badge/numpy-white?style=for-the-badge&logo=numpy&logoColor=blue)
-![Pandas](https://img.shields.io/badge/pandas-white?style=for-the-badge&logo=pandas&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-white?style=for-the-badge&logo=pandas&logoColor=#00008B)
 ![SciPy](https://img.shields.io/badge/scipy-000000?style=for-the-badge&logo=scipy&logoColor=blue)
 ![SpaCy](https://img.shields.io/badge/spacy-000000?style=for-the-badge&logo=spacy&logoColor=blue)
 ![Scikit-learn](https://img.shields.io/badge/scikitlearn-000000?style=for-the-badge&logo=scikitlearn&logoColor=orange)
