@@ -1,5 +1,5 @@
 <h1 align="center">Hey Everyone 👋, I'm Shristi Kumari</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Frontend_Developer+Data_Analyst+Java+Python+Development_Enthusiast" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Frontend_Developer+Data_Analyst+Development_Enthusiast+Java+Python" alt="Typing SVG" /></a>
 
 <h3 align="center">Frontend Developer | Data Analyst | Java | Python | Development Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
