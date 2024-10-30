@@ -60,9 +60,7 @@
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SHRISTI-125&theme=deuteranopia-friendly-theme" alt="GitHub Streak" /></a><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shristi-125&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="shristi-125" /></p><br>
 
-<p align="left">
-   <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
-</p>
+![Git](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 
 <h3 align="left">Connect with me:</h3>
