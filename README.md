@@ -12,13 +12,14 @@
 -  Exploring new technologies and ideas with zeal to learn more.
 -  Development Enthusiast
 -  Here is my [Resume](https://drive.google.com/file/d/19VyEkUKLGutDtBU_pCiNbgtZb4UgRLyo/view?usp=sharing)
+-  
 ## Skills:
 
-<b>Languages</b><br>
-![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=yellow)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<b>Programming Languages</b><br>
+<img src = "https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" width="60px">
+<img src = "https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" width = "60px">
+<img src = "https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" width = "60px">
+<img src = "https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" width = "60px">
 
 <b>Frontend</b><br>
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -65,11 +66,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/shristi-kumari-365a48276/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Shristi Kumari"/>
- </a>
+  <a href="https://www.linkedin.com/in/shristi-kumari-365a48276/">
+  <img src = "https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" >
+  </a>
  <a href="https://github.com/SHRISTI-125" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="SHRISTI-125" />
+  <img src = "https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" width = "60px" alt="SHRISTI-125" />
  </a>
 </p>
 
