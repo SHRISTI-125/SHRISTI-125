@@ -59,7 +59,7 @@
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=SHRISTI-125&theme=omni&show_icons=true"/><br>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SHRISTI-125&theme=deuteranopia-friendly-theme" alt="GitHub Streak" /></a><br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shristi-125&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="shristi-125" /></p><br>
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shristi-125&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="shristi-125" /></p><br>-->
 
 ![Git](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
@@ -67,7 +67,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/shristi-kumari-365a48276/">
-  <img src = "https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" >
+  <img src = "https://github.com/SHRISTI-125/SHRISTI-125/blob/main/linkedin_logo.png"width = "40px" >
   </a>
  <a href="https://github.com/SHRISTI-125" target="_blank">
   <img src = "https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" width = "60px" alt="SHRISTI-125" />
