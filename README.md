@@ -12,7 +12,7 @@
 -  Exploring new technologies and ideas with zeal to learn more.
 -  Development Enthusiast
 -  Here is my [Resume](https://drive.google.com/file/d/19VyEkUKLGutDtBU_pCiNbgtZb4UgRLyo/view?usp=sharing)
--  
+
 ## Skills:
 
 <b>Programming Languages</b><br>
