@@ -56,7 +56,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHRISTI-125&theme=merko&layout=pie">-->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHRISTI-125&theme=merko&layout=pie&exclude_repo=https://github.com/SHRISTI-125/Advanced-Data-Visualization-using-Seaborn2">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHRISTI-125&theme=merko&layout=pie&exclude_repo=Advanced-Data-Visualization-using-Seaborn">
 
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=SHRISTI-125&theme=omni&show_icons=true"/><br>
