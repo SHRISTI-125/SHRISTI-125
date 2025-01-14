@@ -11,7 +11,7 @@
 -  Open Source Contributor  
 -  Exploring new technologies and ideas with zeal to learn more.
 -  Development Enthusiast
--  Here is my [Resume](https://drive.google.com/file/d/19VyEkUKLGutDtBpCiNbgtZb4UgRLyo/view?usp=sharing)
+-  Here is my [Resume](https://shristikumarirvscet.netlify.app/)
 
 ## Skills:
 
