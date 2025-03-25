@@ -74,8 +74,12 @@
  <a href="https://github.com/SHRISTI-125" target="_blank">
   <img src = "https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" width = "60px" alt="SHRISTI-125" />
  </a>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=SHRISTI-125&label=Profile%20views&color=blue&style=flat" alt="shristi-125" /> </p>
+  <p align="right">
+    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="programming" width="300px" height="240px">
+  </p>
 </p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SHRISTI-125&label=Profile%20views&color=blue&style=flat" alt="shristi-125" /> </p>
+
 
