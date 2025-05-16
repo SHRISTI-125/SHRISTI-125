@@ -70,13 +70,15 @@
 <table style="border-collapse: collapse; border: none;">
   <tr>
     <td style="border: none; padding: 10;">
-    <!--<p align="left">-->
+    <!--<p align="left">
       <a href="https://www.linkedin.com/in/shristi-kumari-365a48276/">
-      <img src = "https://github.com/SHRISTI-125/SHRISTI-125/blob/main/linkedin_logo.png"width = "40px" >
+      <img src = "https://github.com/SHRISTI-125/SHRISTI-125/blob/main/linkedin_logo.png"width = "40px" >-->
+      <a href="https://github.com/SHRISTI-125" target="_blank">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" height="200" alt="Motivational Gif">
       </a>
- <a href="https://github.com/SHRISTI-125" target="_blank">
+<!-- <a href="https://github.com/SHRISTI-125" target="_blank">
   <img src = "https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" width = "60px" alt="SHRISTI-125" />
- </a>
+ </a>-->
 <td style="border: none; padding: 10;">
     <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="programming" width="300px" height="240px">
 </td>
