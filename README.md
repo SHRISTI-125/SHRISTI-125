@@ -60,9 +60,10 @@
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=SHRISTI-125&theme=omni&show_icons=true"/><br>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=shristi-125&theme=aura-dark" alt="GitHub Streak" /></a><br>
-<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shristi-125&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="shristi-125" /></p><br>-->
-
-![Git](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+<!--
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shristi-125&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="shristi-125" /></p><br>
+<!--
+![Git](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)-->
 
 
 <h3 align="left">Connect with me:</h3>
