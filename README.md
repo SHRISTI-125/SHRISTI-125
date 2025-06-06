@@ -1,5 +1,5 @@
 <h1 align="center">Hey Everyone 👋, I'm Shristi Kumari</h1>
-<center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rockwell&weight=700&size=25&pause=4000&color=3799F7&width=975&lines=Frontend+Developer+%7C+Data+Analyst+%7C+Java+%7C+Python+%7C+Development+Enthusiast" alt="Typing SVG" /></a>
+<center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rockwell&weight=700&size=25&pause=4000&color=3799F7&width=975&lines=Frontend+Developer+%7C+Data+Analyst+%7C+Exploring+ML+%7C+Development+Enthusiast" alt="Typing SVG" /></a>
 </center>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
