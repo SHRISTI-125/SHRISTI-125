@@ -12,6 +12,9 @@
 -  Exploring new technologies and ideas with zeal to learn more.
 -  Development Enthusiast
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=SHRISTI-125&title=Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## Skills:
 
 <b>Programming Languages</b><br>
