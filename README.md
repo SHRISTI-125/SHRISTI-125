@@ -13,7 +13,7 @@
 -  Development Enthusiast
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SHRISTI-125&title=Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SHRISTI-125&title=Commits,Experience,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Skills:
 
