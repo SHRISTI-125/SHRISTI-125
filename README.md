@@ -21,7 +21,7 @@
 <img src = "https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" width="60px">
 <img src = "https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" width = "60px">
 <img src = "https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" width = "60px">
-<img src = "https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" width = "60px">
+<!--<img src = "https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" width = "60px">-->
 
 <b>Frontend</b><br>
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -52,8 +52,7 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Visual Studio Code Professional](https://img.shields.io/badge/VS_Code_Professional-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+<!--![Jupter-Notebook](https://img.shields.io/badge/Jupyter_Notebook-000000?style=for-the-badge&logo=jupyter_notebook&logoColor=white)-->
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
