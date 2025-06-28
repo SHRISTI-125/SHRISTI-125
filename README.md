@@ -6,7 +6,7 @@
 ## 👨🏻‍💻 About Me
 -  I am a third year B.Tech CSE student.
 -  I am learning DSA.
--  Improving my Fronend skills.
+-  Improving my Frontend skills.
 -  Learning Machine Learning to expand my knowledge.
 -  Open Source Contributor  
 -  Exploring new technologies and ideas with zeal to learn more.
