@@ -11,8 +11,20 @@
 -  Exploring new technologies and ideas with zeal to learn more.
 -  Development Enthusiast
 
+<!--
+<h2 align="center">🏆 GitHub Trophies</h2>
+<p align="center">
+  <a href="https://github.com/SHRISTI-125">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=SHRISTI-125&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=SHRISTI-125&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=SHRISTI-125&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+    </picture>
+  </a>
+</p>
+-->
 
-<!--[![](https://github-profile-trophy.vercel.app/?username=SHRISTI-125&title=Commits,Experience,Repository,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)-->
+[![](https://github-profile-trophy.vercel.app/?username=SHRISTI-125&title=Commits,Experience,Repository,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Skills:
 <!--
@@ -106,4 +118,5 @@
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=SHRISTI-125&label=Profile%20views&color=green&style=flat" alt="shristi-125" /> </p>
 
 
-[![Shristi's github activity](https://github-readme-activity-graph.vercel.app/graph?username=SHRISTI-125&theme=github-compact)]()
+<!--[![Shristi's github activity](https://github-readme-activity-graph.vercel.app/graph?username=SHRISTI-125&theme=github-compact)]()-->
+[![Shristi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SHRISTI-125&bg_color=121111&color=00ffe1&line=fa00d9&point=fff700&area=true&hide_border=true)](github.com/SHRISTI-125/github-readme-activity-graph)
