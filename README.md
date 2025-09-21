@@ -24,7 +24,11 @@
 </p>
 -->
 
-[![](https://github-profile-trophy.vercel.app/?username=SHRISTI-125&title=Commits,Experience,Repository,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+
+
+[![](https://github-profile-trophy.vercel.app/?username=SHRISTI-125&title=Commits,Experience,Repository,PullRequest&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+</p>
 
 ## Skills:
 <!--
