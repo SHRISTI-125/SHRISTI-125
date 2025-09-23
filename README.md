@@ -24,6 +24,8 @@
 </p>
 -->
 
+
+
 <p align="center">
 
 
@@ -97,7 +99,11 @@
   <img src="https://streak-stats.demolab.com?user=shristi-125&theme=aura-dark" alt="GitHub Streak" height="200"/>
 </p>
 
+<img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHRISTI-125&layout=compact&langs_count=10&theme=transparent&hide_title=true&hide_border=true&text_color=838383&exclude_repo=Advanced-Data-Visualization-using-Seaborn,Carbon-Emission-Prediction,Breast-Cancer-Prediction-using-Classification,Movie-Recommendation-System,Story,Space_Frontend" />
+
+<!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHRISTI-125&theme=merko&layout=pie&exclude_repo=Advanced-Data-Visualization-using-Seaborn,Carbon-Emission-Prediction,Breast-Cancer-Prediction-using-Classification,Movie-Recommendation-System,Story,Space_Frontend">
+-->
 
 <h3 align="left">Connect with me:</h3>
 
@@ -123,4 +129,7 @@
 
 
 <!--[![Shristi's github activity](https://github-readme-activity-graph.vercel.app/graph?username=SHRISTI-125&theme=github-compact)]()-->
-[![Shristi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SHRISTI-125&bg_color=121111&color=00ffe1&line=fa00d9&point=fff700&area=true&hide_border=true)](github.com/SHRISTI-125/github-readme-activity-graph)
+<!--[![Shristi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SHRISTI-125&bg_color=121111&color=00ffe1&line=fa00d9&point=fff700&area=true&hide_border=true)](github.com/SHRISTI-125/github-readme-activity-graph)
+-->
+
+<img align="center" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SHRISTI-125&theme=minimal&bg_color=00000000&line=838383&color=838383&days=30&point=838383&hide_border=true&hide_title=true&area=true" />
