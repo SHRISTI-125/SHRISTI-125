@@ -1,15 +1,16 @@
 <h1 align="center">Hey Everyone 👋, I'm Shristi Kumari</h1>
-<center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rockwell&weight=700&size=25&pause=4000&color=3799F7&width=975&lines=Frontend+Developer+%7C+Data+Analyst+%7C+Exploring+ML+%7C+Development+Enthusiast" alt="Typing SVG" /></a>
+<center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rockwell&weight=700&size=25&pause=4000&color=3799F7&width=975&lines=Full+Stack+Developer+%7C+Data+Analyst+%7C+Exploring+ML+%7C+Development+Enthusiast" alt="Typing SVG" /></a>
 </center>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 ## 👨🏻‍💻 About Me
 -  I am a final year B.Tech CSE student.
--  I have worked on various projects.
--  My projects includes full-stack web development and AI/ML.
--  Currently delving into Deep Learning.
+-  Passionate about building scalable applications and intelligent systems.
+-  My project includes Full-Stack Web Development.
+-  Worked on projects in Artificial Intelligence & Machine Learning
+-  Currently exploring Deep Learning.
 -  Exploring new technologies and ideas with zeal to learn more.
--  Development Enthusiast
+-  Enthusiastic about software development, problem-solving, and innovation.
 
 <!--
 <h2 align="center">🏆 GitHub Trophies</h2>
