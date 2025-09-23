@@ -100,7 +100,7 @@
   <img src="https://streak-stats.demolab.com?user=shristi-125&theme=aura-dark" alt="GitHub Streak" height="200"/>
 </p>
 
-<img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHRISTI-125&layout=compact&langs_count=10&theme=transparent&hide_title=true&hide_border=true&text_color=838383&exclude_repo=Advanced-Data-Visualization-using-Seaborn,Carbon-Emission-Prediction,Breast-Cancer-Prediction-using-Classification,Movie-Recommendation-System,Story,Space_Frontend" />
+<img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHRISTI-125&layout=compact&langs_count=10&theme=transparent&hide_title=true&hide_border=true&text_color=838383&exclude_repo=Advanced-Data-Visualization-using-Seaborn,Carbon-Emission-Prediction,Breast-Cancer-Prediction-using-Classification,Movie-Recommendation-System,Story,3D-Viewing-" />
 
 <!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHRISTI-125&theme=merko&layout=pie&exclude_repo=Advanced-Data-Visualization-using-Seaborn,Carbon-Emission-Prediction,Breast-Cancer-Prediction-using-Classification,Movie-Recommendation-System,Story,Space_Frontend">
