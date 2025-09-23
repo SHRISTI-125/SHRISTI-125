@@ -6,8 +6,8 @@
 ## 👨🏻‍💻 About Me
 -  I am a final year B.Tech CSE student.
 -  Passionate about building scalable applications and intelligent systems.
--  My project includes Full-Stack Web Development.
--  Worked on projects in Artificial Intelligence & Machine Learning
+-  I have worked on projects involving Full-Stack Web Development.
+-  Developed projects in Artificial Intelligence and Machine Learning.
 -  Currently exploring Deep Learning.
 -  Exploring new technologies and ideas with zeal to learn more.
 -  Enthusiastic about software development, problem-solving, and innovation.
